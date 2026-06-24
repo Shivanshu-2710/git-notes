@@ -30,3 +30,6 @@ git diff branch name : to compare commits , branches , files and more
 git merge branch name
 WAY 2
 Create a PR(Pull Request)
+
+#PULL COMMAND
+git pull origin main
