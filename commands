@@ -23,3 +23,10 @@ git branch -M main : rename branch
 git checkout branch name : to navigate
 git checkout -b new branch name : create new branch 
 git checkout -d branch name : delete branch
+
+#MERGING COMMANDS
+WAY 1
+git diff branch name : to compare commits , branches , files and more 
+git merge branch name
+WAY 2
+Create a PR(Pull Request)
