@@ -5,3 +5,4 @@ git clone link : to copy from github (remote) to local
 git status 
 git add file name
 git add . : saves all new or modified files
+git commit -m "message"
