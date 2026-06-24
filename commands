@@ -14,5 +14,12 @@ git push -u origin main [-u sets upstream so that furthure only git push is suff
 git init : make a git repo
 git remote add origin link
 git remote -v : verify remote
+
+
+#BRANCH COMMANDS
+
 git branch : check bracnch
 git branch -M main : rename branch
+git checkout branch name : to navigate
+git checkout -b new branch name : create new branch 
+git checkout -d branch name : delete branch
