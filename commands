@@ -1,0 +1,5 @@
+ls : list files
+ls -a : list all files (hidden files also ) [only works in git bash]
+ls -Force : same as ls -a for vs code
+git clone link : to copy from github (remote) to local
+git status 
