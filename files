@@ -1,0 +1,4 @@
+Modified - that is modified
+untracked - new file that git doesnot track yet
+staged - modified or untracked file that is ready to be commited or is added
+unmodifiec - no changes in file
