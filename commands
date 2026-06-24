@@ -6,3 +6,4 @@ git status
 git add file name
 git add . : saves all new or modified files
 git commit -m "message"
+git push origin main : to push local repo to remote repo or github
