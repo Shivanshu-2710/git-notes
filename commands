@@ -7,3 +7,10 @@ git add file name
 git add . : saves all new or modified files
 git commit -m "message"
 git push origin main : to push local repo to remote repo or github
+
+#INIT COMMANDS
+git init : make a git repo
+git remote add origin link
+git remote -v : verify remote
+git branch : check bracnch
+git branch -M main : rename branch
