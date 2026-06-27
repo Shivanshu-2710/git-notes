@@ -15,7 +15,6 @@ git init : make a git repo
 git remote add origin link
 git remote -v : verify remote
 
-
 #BRANCH COMMANDS
 
 git branch : check bracnch
