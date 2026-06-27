@@ -14,3 +14,31 @@ cd .. : move one level to parent directory
 ~ : shortcut for homedirectory 
 cd ~ : goes to home directory 
 touch filename : used to create new empty files 
+echo 'text' > filename : prints the text in file if not created creates one if exists then overwrites 
+echo 'text' > .hiddenfile : it creates a hidden file 
+#any file in linux starting with . is hidden
+
+mkdir directoryname : makes a new directory
+ls -l : lists with additional details 
+ls -a : lists hidden files also
+ls -la : combine of both
+ls -l directoryname : lists of a certain directory
+cp filename copyfilename : copies file in currrent directory
+cp filename directoryname/ : copies file to another directory
+cp -r dirname copydirname : creates copy of a directory
+#mv used for both renaming and moving
+mv filename newname : changes name
+mv filename dirname/ : moves file to dir
+mv dirname newdirname : changes dir name
+mv dirname/filename ./newname : this moves file out of dir and renames it to newname
+rm filename : permanently removes file
+rm -i filename : this asks y/n before asking to delete files
+rmdir dirname : only works on empty directories
+rm -r dirname : used to remove dir and its content
+rm .hiddenfile : removes hidden file
+rm -rf dirname : force removes a non empty dir
+
+#FOR ls -R is recursive listing and -r is reverse sort order whereas for cp and rm -r is recursive listing
+
+
+
