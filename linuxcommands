@@ -1,0 +1,16 @@
+Linux is case sensitive unlike sql
+echo : acts like print 
+whoami : prints the username 
+id : print unique id , group id and group you have joined 
+id root : root is superuser like administator of the system
+id -un : prints only current username
+pwd : prints working directory
+echo ~ : prints home directory
+ls : lists all files and directories in your current working directory
+ls ~ : lists from home directory
+cd: used to change directory
+.. : directory above
+cd .. : move one level to parent directory
+~ : shortcut for homedirectory 
+cd ~ : goes to home directory 
+touch filename : used to create new empty files 
