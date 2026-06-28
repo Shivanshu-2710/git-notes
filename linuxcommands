@@ -43,5 +43,3 @@ rm -rf dirname : force removes a non empty dir
 ~: Represents your home directory.
 ~/.zshrc: A hidden configuration file in your home directory.
 ~/Code: A directory containing source code.
-
-
