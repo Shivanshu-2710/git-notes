@@ -40,5 +40,8 @@ rm -rf dirname : force removes a non empty dir
 
 #FOR ls -R is recursive listing and -r is reverse sort order whereas for cp and rm -r is recursive listing
 
+~: Represents your home directory.
+~/.zshrc: A hidden configuration file in your home directory.
+~/Code: A directory containing source code.
 
 
